@@ -1,0 +1,106 @@
+Id;Label;value;Degree;closnesscentrality;betweenesscentrality;clustering
+0;1000 Years for Revenge;n;6;0.345515;39.811624;0.6
+1;Bush vs. the Beltway;c;4;0.303207;0.261957;0.833333
+2;Charlie Wilson's War;c;4;0.309524;2.789044;0.666667
+3;Losing Bin Laden;c;23;0.371429;407.553616;0.209486
+4;Sleeping With the Devil;n;8;0.390977;337.044879;0.25
+5;The Man Who Warned America;c;7;0.356164;68.988822;0.52381
+6;Why America Slept;n;11;0.379562;301.528547;0.181818
+7;Ghost Wars;n;8;0.407843;368.088234;0.178571
+8;A National Party No More;c;25;0.378182;401.205128;0.253333
+9;Bush Country;c;16;0.40625;527.003123;0.3
+10;Dereliction of Duty;c;15;0.340984;180.668053;0.304762
+11;Legacy;c;18;0.361111;156.837951;0.294118
+12;Off with Their Heads;c;25;0.380952;510.221561;0.233333
+13;Persecution;c;13;0.340984;96.549002;0.333333
+14;Rumsfeld's War;c;9;0.395437;315.161613;0.416667
+15;Breakdown;c;5;0.292135;4.116953;0.7
+16;Betrayal;c;3;0.27882;0;1
+17;Shut Up and Sing;c;5;0.297143;0.655118;0.9
+18;Meant To Be;n;3;0.316109;0.261957;0.666667
+19;The Right Man;c;5;0.362369;195.707848;0.2
+20;Ten Minutes from Normal;c;10;0.380952;140.480254;0.4
+21;Hillary's Scheme;c;5;0.296296;0.665909;0.8
+22;The French Betrayal of America;c;7;0.346667;38.334809;0.333333
+23;Tales from the Left Coast;c;9;0.297994;10.433387;0.5
+24;Hating America;c;9;0.357388;26.558433;0.611111
+25;The Third Terrorist;c;5;0.320988;4.472638;0.4
+26;Endgame;c;9;0.354949;32.006927;0.527778
+27;Spin Sisters;c;9;0.332268;15.475431;0.583333
+28;All the Shah's Men;n;3;0.342105;20.560146;0.333333
+29;Dangerous Dimplomacy;c;4;0.348993;51.913513;0.333333
+30;The Price of Loyalty;l;20;0.414343;747.04566;0.268421
+31;House of Bush, House of Saud;l;11;0.382353;170.545313;0.4
+32;The Death of Right and Wrong;c;5;0.288889;0.97619;0.8
+33;Useful Idiots;c;9;0.294618;7.183663;0.527778
+34;The O'Reilly Factor;c;5;0.240185;1.2;0.6
+35;Let Freedom Ring;c;10;0.304985;44.736605;0.355556
+36;Those Who Trespass;c;5;0.285714;16.576782;0.4
+37;Bias;c;7;0.292135;19.489483;0.52381
+38;Slander;c;7;0.288889;14.096069;0.666667
+39;The Savage Nation;c;8;0.304094;32.802281;0.464286
+40;Deliver Us from Evil;c;18;0.357388;247.63533;0.27451
+41;Give Me a Break;c;8;0.326019;17.689756;0.642857
+42;The Enemy Within;c;6;0.298851;3.789987;0.533333
+43;The Real America;c;5;0.288889;8.960703;0.4
+44;Who's Looking Out for You?;c;5;0.300578;1.065173;0.8
+45;The Official Handbook Vast Right Wing Conspiracy;c;6;0.32;1.270614;0.733333
+46;Power Plays;n;4;0.335484;228.946299;0.333333
+47;Arrogance;c;18;0.351351;148.525501;0.27451
+48;The Perfect Wife;n;4;0.338762;1.338467;0.833333
+49;The Bushes;c;8;0.407843;555.145166;0.25
+50;Things Worth Fighting For;c;3;0.346667;17.826487;0.333333
+51;Surprise, Security, the American Experience;n;6;0.356164;109.121238;0.6
+52;Allies;c;5;0.357388;71.373155;0.4
+53;Why Courage Matters;c;5;0.371429;292.990805;0.5
+54;Hollywood Interrupted;c;6;0.297994;0.956212;0.8
+55;Fighting Back;c;4;0.310448;6.520076;0.666667
+56;We Will Prevail;c;4;0.307692;18.933499;0
+57;The Faith of George W Bush;c;5;0.339869;59.284005;0.3
+58;Rise of the Vulcans;c;13;0.412698;403.155527;0.192308
+59;Downsize This!;l;5;0.253659;4.967857;0.6
+60;Stupid White Men;l;6;0.274406;15.758965;0.6
+61;Rush Limbaugh Is a Big Fat Idiot;l;4;0.278075;11.854693;0.166667
+62;The Best Democracy Money Can Buy;l;6;0.275862;12.048963;0.666667
+63;The Culture of Fear;l;4;0.251816;0;1
+64;America Unbound;l;9;0.356164;151.894919;0.361111
+65;The Choice;l;7;0.321981;23.684562;0.47619
+66;The Great Unraveling;l;21;0.371429;349.287063;0.266667
+67;Rogue Nation;l;6;0.319018;157.551558;0.266667
+68;Soft Power;l;4;0.325;9.708453;0.5
+69;Colossus;n;5;0.313253;56.344888;0.6
+70;The Sorrows of Empire;l;7;0.328076;19.69001;0.428571
+71;Against All Enemies;l;15;0.375451;209.927484;0.257143
+72;American Dynasty;l;22;0.393939;487.043711;0.255411
+73;Big Lies;l;21;0.350168;231.368095;0.314286
+74;The Lies of George W. Bush;l;16;0.340984;81.89632;0.425
+75;Worse Than Watergate;l;16;0.367491;82.218452;0.458333
+76;Plan of Attack;n;13;0.396947;430.097556;0.410256
+77;Bush at War;c;7;0.380952;218.879287;0.428571
+78;The New Pearl Harbor;l;5;0.307692;0.534635;0.8
+79;Bushwomen;l;8;0.328076;9.573158;0.607143
+80;The Bubble of American Supremacy;l;4;0.32;0.670862;0.5
+81;Living History;l;4;0.298851;3.971671;0.5
+82;The Politics of Truth;l;9;0.340984;3.875514;0.777778
+83;Fanatics and Fools;l;8;0.33657;21.149445;0.535714
+84;Bushwhacked;l;23;0.363636;310.109723;0.300395
+85;Disarming Iraq;l;5;0.356164;42.081985;0.3
+86;Lies and the Lying Liars Who Tell Them;l;14;0.352542;185.29875;0.351648
+87;MoveOn's 50 Ways to Love Your Country;l;5;0.300578;5.314085;0.5
+88;The Buying of the President 2004;l;5;0.308605;0.2;0.9
+89;Perfectly Legal;l;6;0.311377;0.816667;0.866667
+90;Hegemony or Survival;l;5;0.306785;5.545511;0.5
+91;The Exception to the Rulers;l;8;0.310448;21.215263;0.428571
+92;Freethinkers;l;3;0.300578;0;1
+93;Had Enough?;l;7;0.346667;81.378712;0.52381
+94;It's Still the Economy, Stupid!;l;7;0.316109;68.705408;0.380952
+95;We're Right They're Wrong;l;4;0.306785;38.065726;0.333333
+96;What Liberal Media?;l;6;0.299712;3.961807;0.733333
+97;The Clinton Wars;l;6;0.287293;3.347388;0.733333
+98;Weapons of Mass Deception;l;5;0.268041;1.943389;0.5
+99;Dude, Where's My Country?;l;12;0.330159;212.637799;0.393939
+100;Thieves in High Places;l;12;0.294618;38.128191;0.333333
+101;Shrub;l;5;0.285714;5.049037;0.5
+102;Buck Up Suck Up;l;4;0.329114;219.569294;0.333333
+103;The Future of Freedom;n;2;0.24356;0;1
+104;Empire;n;3;0.267352;8.096617;0.333333
